@@ -47,5 +47,5 @@ int main()
         if (isFullBinaryTree(root))
                 printf("The tree is full binary tree\n");
         else
-                printf("The tree is not full binary tree\n");
+                printf("The tree is not full binary tree\n"); 
 }
